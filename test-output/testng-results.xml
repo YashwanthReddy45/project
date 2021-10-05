@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-05T02:46:19Z" name="Suite" finished-at="2021-10-05T02:53:12Z" duration-ms="412513">
+    <groups>
+    </groups>
+    <test started-at="2021-10-05T02:46:19Z" name="Chrome" finished-at="2021-10-05T02:53:12Z" duration-ms="412513">
+      <class name="gladiator.NewTest">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:46:19Z" name="beforeTest" finished-at="2021-10-05T02:46:21Z" duration-ms="2168" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="before()[pri:0, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:46:21Z" name="before" finished-at="2021-10-05T02:46:41Z" duration-ms="19737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="TC44()[pri:1, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:46:41Z" name="TC44" description="User able to select a room" finished-at="2021-10-05T02:46:52Z" duration-ms="11452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC44 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:46:52Z" name="after" finished-at="2021-10-05T02:46:52Z" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:46:52Z" name="before" finished-at="2021-10-05T02:47:11Z" duration-ms="18329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="TC45()[pri:2, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:47:11Z" name="TC45" description="Invalid location" finished-at="2021-10-05T02:47:31Z" duration-ms="20415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC45 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:47:31Z" name="after" finished-at="2021-10-05T02:47:31Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:47:31Z" name="before" finished-at="2021-10-05T02:47:49Z" duration-ms="17529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="TC46()[pri:3, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:47:49Z" name="TC46" description="Check-in &amp; Check-out dates same" finished-at="2021-10-05T02:48:01Z" duration-ms="12697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC46 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:48:01Z" name="after" finished-at="2021-10-05T02:48:01Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:48:01Z" name="before" finished-at="2021-10-05T02:48:20Z" duration-ms="18364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="TC47()[pri:4, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:48:20Z" name="TC47" description="User didnot enter first name" finished-at="2021-10-05T02:49:01Z" duration-ms="41228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC47 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:49:01Z" name="after" finished-at="2021-10-05T02:49:01Z" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:49:01Z" name="before" finished-at="2021-10-05T02:49:20Z" duration-ms="18434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="TC48()[pri:5, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:49:20Z" name="TC48" description="User didnot enter a mail or proper mail id" finished-at="2021-10-05T02:50:01Z" duration-ms="40859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC48 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:50:01Z" name="after" finished-at="2021-10-05T02:50:01Z" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:50:01Z" name="before" finished-at="2021-10-05T02:50:20Z" duration-ms="18880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="TC49()[pri:6, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:50:20Z" name="TC49" description="User didnot enter last name" finished-at="2021-10-05T02:51:01Z" duration-ms="40537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC49 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:51:01Z" name="after" finished-at="2021-10-05T02:51:01Z" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:51:01Z" name="before" finished-at="2021-10-05T02:51:19Z" duration-ms="18191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="TC50()[pri:7, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:51:19Z" name="TC50" description="User didnot enter mobile number" finished-at="2021-10-05T02:52:00Z" duration-ms="40999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC50 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:52:00Z" name="after" finished-at="2021-10-05T02:52:00Z" duration-ms="376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:52:00Z" name="before" finished-at="2021-10-05T02:52:20Z" duration-ms="19410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="TC51()[pri:8, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:52:20Z" name="TC51" description="Hotel Booking Succesful" finished-at="2021-10-05T02:53:10Z" duration-ms="50354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC51 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:53:10Z" name="after" finished-at="2021-10-05T02:53:11Z" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:gladiator.NewTest@58594a11]" started-at="2021-10-05T02:53:11Z" name="afterTest" finished-at="2021-10-05T02:53:12Z" duration-ms="958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- gladiator.NewTest -->
+    </test> <!-- Chrome -->
+  </suite> <!-- Suite -->
+</testng-results>

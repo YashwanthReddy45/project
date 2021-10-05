@@ -1,0 +1,10 @@
+#key=value
+url=https://www.easemytrip.com/
+location=Ecil Hyderabad
+checkindate= //body[1]/div[12]/div[1]/table[1]/tbody[1]/tr[3]/td[2]/a[1]
+checkoutdate=//body[1]/div[12]/div[1]/table[1]/tbody[1]/tr[5]/td[2]/a[1]
+fname=YASW
+lname=Red
+email=random@gmail.com
+ph.no=777823
+enter city=//input[@name='txtCity']
